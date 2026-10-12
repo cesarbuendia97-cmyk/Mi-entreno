@@ -1,4 +1,4 @@
-// Plan nutricional del coach (PDF "César Buendía") — dieta por intercambios.
+// Plan nutricional del coach — dieta por intercambios.
 (function(){
 const G='10g crema de cacahuete · 10g crema de pistacho o anacardo · 10g frutos secos (tostados o al natural) · 10g chocolate negro 85% · 5g mantequilla · 30g aguacate · 35g aceitunas · 33g nata ligera para cocinar · 6g aceite de oliva virgen extra · 20g queso graso a tu elección · 36g mozzarella · 30g rulo de queso de cabra';
 const G_PRE='10g crema de cacahuete · 10g crema de pistacho o anacardo · 10g frutos secos · 10g chocolate negro 85% · 5g mantequilla';
